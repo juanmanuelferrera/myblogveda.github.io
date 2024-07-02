@@ -1,0 +1,6 @@
+#+title: Mywebsite
+#+hugo_base_dir: /Users/juanmanuelferreradiaz/Library/Mobile Documents/com~apple~CloudDocs/my-org-files/hugo
+
+* my first post
+** bla bla
+** blu blu
